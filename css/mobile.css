@@ -1,0 +1,6 @@
+/* width가 530px ~ 700px 일때 */
+@media screen and (min-width: 530px) and (max-width: 700px) {
+    .bigScreenText {
+        display: flex;
+    }
+}
